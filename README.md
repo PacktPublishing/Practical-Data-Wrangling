@@ -20,6 +20,7 @@ You will need a Python 3 installation on your computer, and you will need to be 
 * pandas (Chapters 4 and 5)
 * requests (Chapter 8)
 * PyMongo (Chapter 9)
+
 For Chapter 9, you will need to install MongoDB and set up your own local MongoDB server.
 For Chapters 6 and 7, you will need RStudio and Rbase. Additionally, for Chapter 7, you will need the dplyr and tibble libraries.
 
