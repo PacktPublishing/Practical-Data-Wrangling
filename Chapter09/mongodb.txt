@@ -1,0 +1,14 @@
+This file contains the MongoDB terminal and shell commands.
+These commands should be run in a terminal or Mongoshell as specified in the chapter.
+
+$ mongoimport --file fake_weather_data.csv --type csv --headerline --db weather --collection records
+
+$ mongo
+
+> use weather
+
+> db.records.count()
+
+> db.records.findOne()
+
+> db.records.update( { is_sunny : 1}, { $set : { is_sunny : true} }, { multi : true } )

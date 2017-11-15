@@ -1,0 +1,902 @@
+[
+    {
+        "description": "This one is DEEP, around six inches, definitely a major hazard needs repair immediately before people get seriously hurt.",
+        "lat": 40.7260322570801,
+        "lng": -74.0420227050781,
+        "summary": "Streets: Pothole/sinkhole/uneven pavement",
+        "address": "467 Manila Ave Jersey City, NJ 07302, USA",
+        "rating": 1,
+        "created_at": "2017-08-26T18:06:52-04:00"
+    },
+    {
+        "description": "Truck hasn't moved in months and seems abandoned. ",
+        "lat": 38.8943862915039,
+        "lng": -76.9762420654297,
+        "summary": "Abandoned Vehicle - On Public Property",
+        "address": "332-398 20th St Ne Washington, DC 20002, USA",
+        "rating": 1,
+        "created_at": "2017-08-26T18:06:47-04:00"
+    },
+    {
+        "description": "Dear Greensboro City \r\nAs a resident in 3100-3102-3104 Summit avenue \r\nthe Trash collect cars don't come as schedule on Thursday\r\nThe street is full by trash\r\nand the insects spread everywhere specially in this hot weather in add to the bad smell\r\nthat why we ask you to send the trash collector cars immediately and we ask you to provide another trash can since three are not enough for about 200 resident in these area\r\nThanks \r\n",
+        "lat": 36.1145085,
+        "lng": -79.7645146,
+        "summary": "Residential Trash Cans",
+        "address": "3102 Summit Ave Greensboro, North Carolina",
+        "rating": 1,
+        "created_at": "2017-08-26T18:05:45-04:00"
+    },
+    {
+        "description": "Need the screen put back in the window",
+        "lat": 40.7962332,
+        "lng": -76.8771314,
+        "summary": "Ceilings / Windows / Walls / Painting",
+        "address": "115 Zeigler Ln Selinsgrove, PA 17870, USA",
+        "rating": 1,
+        "created_at": "2017-08-26T18:05:41-04:00"
+    },
+    {
+        "description": "Think we have a water leak.  Had a Red Push tree that died quickly.  Bought new tree to replace however the hole keeps filling up with water and we have turned off our water source.",
+        "lat": 33.2571791,
+        "lng": -111.7701027,
+        "summary": "Utilities (Powerlines, Telephone/Cable Boxes, etc.)",
+        "address": "921 E Clovefield St Gilbert, Arizona",
+        "rating": 1,
+        "created_at": "2017-08-26T18:04:55-04:00"
+    },
+    {
+        "description": " Old Utility pole has broken and fell a portion is propped up and tied with wire",
+        "lat": 34.7187132,
+        "lng": -86.58382,
+        "summary": "Broken utility pole ",
+        "address": "305 Longwood Ave  Huntsville, Alabama",
+        "rating": 1,
+        "created_at": "2017-08-26T18:04:26-04:00"
+    },
+    {
+        "description": "Large amount of furniture abadoned by dumpster. Apartment residents cannot access dumpster.",
+        "lat": 27.7814312,
+        "lng": -82.7364878,
+        "summary": "Special Pick-Up request",
+        "address": "900 70th Street North Saint Petersburg, Florida",
+        "rating": 1,
+        "created_at": "2017-08-26T18:04:01-04:00"
+    },
+    {
+        "description": "Old chrysler? Car been here forever.  Grass is growing under it.  Never gets moved not even for street cleaning.  Yellow and gray? Lp is 882 UAF.  ",
+        "lat": 37.7884642069597,
+        "lng": -122.2204001,
+        "summary": "Other: Other City Services",
+        "address": "3212 Hyde St",
+        "rating": 1,
+        "created_at": "2017-08-26T18:03:59-04:00"
+    },
+    {
+        "description": "",
+        "lat": 38.8943513004548,
+        "lng": -76.9763385742215,
+        "summary": "Residential Bulk Collection",
+        "address": "332 20th St Ne Washington, DC 20002, USA",
+        "rating": 1,
+        "created_at": "2017-08-26T18:03:51-04:00"
+    },
+    {
+        "description": "There are several lots that are not maintained on a regular basis. Most are owned by one individual who owns several homes and lots. I don't want to say his name. Please have him to keep the lots cleaned. Thanks",
+        "lat": 30.8166589,
+        "lng": -83.2324265,
+        "summary": "Overgrown Grass & Weeds",
+        "address": "5745 Shasta Pines Valdosta, GA 31601, USA",
+        "rating": 1,
+        "created_at": "2017-08-26T18:02:31-04:00"
+    },
+    {
+        "description": "Gushing water for 3 days in front a driveway to Love Elementary ",
+        "lat": 29.7941687760981,
+        "lng": -95.4092944167996,
+        "summary": "Water Leak",
+        "address": "1200-1298 W 13th St Houston, TX 77008, USA",
+        "rating": 1,
+        "created_at": "2017-08-26T17:59:33-04:00"
+    },
+    {
+        "description": "Many of us have been complaining regarding the fountains not working in Jackson park.after several complains including phone calls the issue has not been resolved.We were told that parts had been ordered and it would take 6 weeks .I specifically have been complaining over  a year now.You do understand that still water gives rise to algae and can harbor toxins.\r\nThere are so many mosquitoes in our backyard.Its impossible to enjoy summer especially for senior citizens\r\n Please address this issue ASAP",
+        "lat": 36.0319415,
+        "lng": -95.8494697,
+        "summary": "Mosquito Spraying",
+        "address": "4800 West Washington St S Broken Arrow, Oklahoma",
+        "rating": 1,
+        "created_at": "2017-08-26T17:56:08-04:00"
+    },
+    {
+        "description": "Cars parking in yard",
+        "lat": 30.624716313137,
+        "lng": -96.319630990152,
+        "summary": "Parking in the Yard",
+        "address": "1209-1213 Walton Dr College Station, TX 77840, USA",
+        "rating": 2,
+        "created_at": "2017-08-26T17:55:30-04:00"
+    },
+    {
+        "description": "faded crosswalks at Calvert and Tunlaw NW. please repaint. thanks.",
+        "lat": 38.9225454,
+        "lng": -77.0747085,
+        "summary": "Roadway Marking Installation",
+        "address": "Calvert And Tunlaw Washington, District of Columbia",
+        "rating": 1,
+        "created_at": "2017-08-26T17:55:09-04:00"
+    },
+    {
+        "description": "faded crosswalks at 39 and Davis NW. please repaint. thanks.",
+        "lat": 38.923624,
+        "lng": -77.0772463,
+        "summary": "Roadway Marking Installation",
+        "address": "39 And Davis Nw Washington, District of Columbia",
+        "rating": 1,
+        "created_at": "2017-08-26T17:54:09-04:00"
+    },
+    {
+        "description": "Grass is taller than 4 foot fence. In yard and between sidewalk and curb.",
+        "lat": 37.571547,
+        "lng": -77.429018,
+        "summary": "Overgrown Lots",
+        "address": "300 East Brookland Park Boulevard Richmond, Virginia",
+        "rating": 1,
+        "created_at": "2017-08-26T17:52:20-04:00"
+    },
+    {
+        "description": "There are 20 cars parked between the 2 driveways. On the sidewalk and one in the road blocking a lane. \n542 and 538 Canal",
+        "lat": 27.2749938964844,
+        "lng": -82.5672302246094,
+        "summary": "Other",
+        "address": "95 Columbus Blvd Siesta Key, FL 34242, USA",
+        "rating": 1,
+        "created_at": "2017-08-26T17:51:19-04:00"
+    },
+    {
+        "description": "Overflowing recycle bin in street, debris in street ",
+        "lat": 41.6808625,
+        "lng": -87.5024573,
+        "summary": "Other",
+        "address": "1013 Reese  Whiting, IN",
+        "rating": 1,
+        "created_at": "2017-08-26T17:47:39-04:00"
+    },
+    {
+        "description": "Plants are completely blocking the sidewalk and spilling over into neighboring yards",
+        "lat": 38.9070441,
+        "lng": -76.9889789,
+        "summary": "Grass & Weeds Mowing",
+        "address": "1109 Penn St Ne Washington, DC 20002, USA",
+        "rating": 1,
+        "created_at": "2017-08-26T17:47:02-04:00"
+    },
+    {
+        "description": "Sign was ran over by vehicle. Lies in the concrete median and needs replacing. Thank you",
+        "lat": 36.8426597622826,
+        "lng": -76.1368257752555,
+        "summary": "Traffic Sign",
+        "address": "170 Independence Blvd Virginia Beach, VA 23462, USA",
+        "rating": 1,
+        "created_at": "2017-08-26T17:43:57-04:00"
+    },
+    {
+        "description": "people are dropping off all their trash in front of the house the property has not been maintained all year kids walk by this every single day to go up to the gas station and it's a safety hazard",
+        "lat": 42.4148847,
+        "lng": -83.2839214,
+        "summary": "Illegal Dump Sites 17129 & 17137 Winston",
+        "address": "17137 Winston St Detroit, MI 48219, USA",
+        "rating": 2,
+        "created_at": "2017-08-26T17:42:03-04:00"
+    },
+    {
+        "description": "Truck spilled its contents all over the road and roadside in this area. Some of the debris lies in the roadside, but most lies in the bushes and grass. White paper or ribbon of some kind covers area from Miller's Neighborhood Market all the way up to the shopping center (the one with Jade Villa). Large area is covered with spilled debris. Please clean up as soon as possible. ",
+        "lat": 36.850856741307,
+        "lng": -76.1368787852777,
+        "summary": "Other Roadway Issues",
+        "address": "517 Independence Blvd Virginia Beach, VA 23462, USA",
+        "rating": 1,
+        "created_at": "2017-08-26T17:42:00-04:00"
+    },
+    {
+        "description": "The house at 1049 175th is operating an illegal business in the front yard. I doubt the city has given them permission to sell taxable goods in the front yard of residences. These include toilet paper, paper towels, tide detergent, and other cleaning chemicals. They operate during the weekend and occasionally during the week.\n\nThis makes our neighborhood look like a ghetto which it is not. I have seen multiple city vehicles drive by with no one stopping to address this. I believe they do it predominantly on the weekend to avoid code enforcement.\n\nI did my best to take a picture from my vehicle to avoid confrontation with the dozens of people who were there shopping. \n\nPlease look into this and address it with the homeowners.",
+        "lat": 41.5776468,
+        "lng": -87.5027884,
+        "summary": "Code Violation",
+        "address": "1049 175th St Hammond, IN 46324, USA",
+        "rating": 2,
+        "created_at": "2017-08-26T17:41:11-04:00"
+    },
+    {
+        "description": "The pothole is in the crown of the roadway; right at Britannia Dr and Britannia Rd",
+        "lat": 27.2697576517408,
+        "lng": -82.5153371948251,
+        "summary": "Pothole",
+        "address": "5783 Britannia Dr Sarasota, FL 34231, USA",
+        "rating": 2,
+        "created_at": "2017-08-26T17:40:06-04:00"
+    },
+    {
+        "description": "I just saw a rat run across my back patio for the second time this month",
+        "lat": 38.9117750042214,
+        "lng": -77.059506,
+        "summary": "Rat Abatement",
+        "address": "1642 30th St Nw",
+        "rating": 1,
+        "created_at": "2017-08-26T17:39:46-04:00"
+    },
+    {
+        "description": "",
+        "lat": 33.8704266,
+        "lng": -117.5921158,
+        "summary": "Graffiti (including in Parks)",
+        "address": "1160 Border Ave Corona, CA 92882, USA",
+        "rating": 1,
+        "created_at": "2017-08-26T17:39:29-04:00"
+    },
+    {
+        "description": "Dead on Summit in front of park at Bergen Hill. ",
+        "lat": 40.7170339244753,
+        "lng": -74.0673043887277,
+        "summary": "Dead Animal",
+        "address": "52 Summit Ave Jersey City, NJ 07304, USA",
+        "rating": 1,
+        "created_at": "2017-08-26T17:35:06-04:00"
+    },
+    {
+        "description": "Multiple deep potholes at the edge of the road. ",
+        "lat": 38.9724609197405,
+        "lng": -77.0158821154583,
+        "summary": "Pothole",
+        "address": "6800-6898 Sandy Spring Rd Nw Washington, DC 20012, USA",
+        "rating": 1,
+        "created_at": "2017-08-26T17:30:51-04:00"
+    },
+    {
+        "description": "All four sewers located at Bidwell and Ocean Avenues STINK. There is a strong stench coming from them and the streets become flooded when it rains. Please have someone come out and clean them.",
+        "lat": 40.7040753,
+        "lng": -74.0800064,
+        "summary": "Water/ Sewer/ Flooding Issues",
+        "address": "517 Ocean Avenue Jersey City, New Jersey",
+        "rating": 1,
+        "created_at": "2017-08-26T17:30:06-04:00"
+    },
+    {
+        "description": "East bound Eastland at Treat the Stop sign not visible.",
+        "lat": 32.2114906311035,
+        "lng": -110.931083679199,
+        "summary": "Overgrown Weeds & Vegetation",
+        "address": "2730-2798 E Eastland St Tucson, AZ 85716, USA",
+        "rating": 1,
+        "created_at": "2017-08-26T17:28:22-04:00"
+    },
+    {
+        "description": "House for sale with triple lot not mowed in over a month",
+        "lat": 37.5291402062464,
+        "lng": -77.4107946254059,
+        "summary": "Overgrown Lots",
+        "address": "421 N 32nd St Richmond, VA 23223, USA",
+        "rating": 1,
+        "created_at": "2017-08-26T17:27:14-04:00"
+    },
+    {
+        "description": "The garbage collectors broke my cart yesterday ",
+        "lat": 32.9058234,
+        "lng": -83.7255502,
+        "summary": "Cart broken",
+        "address": "139 Wexford Ct  Macon, Georgia",
+        "rating": 1,
+        "created_at": "2017-08-26T17:26:06-04:00"
+    },
+    {
+        "description": "A tree fell on the street from the storm last night. It is covering the whole intersection. ",
+        "lat": 29.7522831152249,
+        "lng": -95.4739749306673,
+        "summary": "Street Hazard",
+        "address": "1501 Sherbrooke Rd Houston, TX 77056, USA",
+        "rating": 1,
+        "created_at": "2017-08-26T17:25:32-04:00"
+    },
+    {
+        "description": "Empty lot in subdivision. Regular mowing doesn't happen. ",
+        "lat": 36.0139465332031,
+        "lng": -95.7735214233398,
+        "summary": "Code Enforcement Issues",
+        "address": "3811 S 13th Pl Broken Arrow, OK 74011, USA",
+        "rating": 1,
+        "created_at": "2017-08-26T17:24:36-04:00"
+    },
+    {
+        "description": "Black garbage bags dumped across the steer from Mills. Bags are on sidewalk and prevent wheelchair access ",
+        "lat": 37.7815036068747,
+        "lng": -122.187501684559,
+        "summary": "Illegal Dumping",
+        "address": "5091 Macarthur Blvd Oakland, CA 94619, USA",
+        "rating": 2,
+        "created_at": "2017-08-26T17:23:49-04:00"
+    },
+    {
+        "description": "",
+        "lat": 29.7817715391729,
+        "lng": -95.4567569464565,
+        "summary": "Traffic Signal Maintenance",
+        "address": "874 N Post Oak Rd Houston, TX 77024, USA",
+        "rating": 1,
+        "created_at": "2017-08-26T17:23:32-04:00"
+    },
+    {
+        "description": "Corner of 9th and wood.  Household trash routinely left on corner along with green yardwaste bin also containing trash",
+        "lat": 37.809650712684,
+        "lng": -122.300780871552,
+        "summary": "Illegal Dumping",
+        "address": "901-911 Wood St Oakland, CA 94607, USA",
+        "rating": 3,
+        "created_at": "2017-08-26T17:23:15-04:00"
+    },
+    {
+        "description": "nitrous oxide cannisters \r\nseveral hundred of them scattered on the ground\r\nmore of them in bags\r\nthey are located right next to the structure in the satellite picture\r\nmarked by the red balloon\r\nnine bollards are around the structure, and the cannisters were very close by",
+        "lat": 37.7901750198587,
+        "lng": -122.297815591986,
+        "summary": "Illegal Dumping of Garbage",
+        "address": "2990 Main Street Alameda, California",
+        "rating": 1,
+        "created_at": "2017-08-26T17:20:54-04:00"
+    },
+    {
+        "description": "tree limbs, recommend smaller bulk truck for this alley",
+        "lat": 37.5631446838379,
+        "lng": -77.4804611206055,
+        "summary": "Bulk Trash",
+        "address": "700-798 Roseneath Rd Richmond, VA 23221, USA",
+        "rating": 1,
+        "created_at": "2017-08-26T17:19:09-04:00"
+    },
+    {
+        "description": "This tree needs to be trimmed back. It is difficult to see when vehicles are approaching this intersection. ",
+        "lat": 34.7493924,
+        "lng": -86.5538165,
+        "summary": "Tree blocking street view from vehicles coming down the road from Oakpark.",
+        "address": "2003-2005 Stanhope Drive Northeast Huntsville, Alabama",
+        "rating": 2,
+        "created_at": "2017-08-26T17:18:28-04:00"
+    },
+    {
+        "description": "Thanks! Enjoy Labor Day weekend. ",
+        "lat": 42.5244836002144,
+        "lng": -94.1836703,
+        "summary": "Yard Waste Pickup Request",
+        "address": "1705 N 14th St; Fort Dodge IA 50501, USA",
+        "rating": 1,
+        "created_at": "2017-08-26T17:18:09-04:00"
+    },
+    {
+        "description": "Heavy trash is dumped at curb of house at wrong time. Heavy trash is not to be picked up for over a month. Pile is debris is construction/contractor waste. ",
+        "lat": 29.7745634013975,
+        "lng": -95.2419871,
+        "summary": "Illegal Dumping",
+        "address": "818 Westshire Dr Houston, TX 77013, USA",
+        "rating": 2,
+        "created_at": "2017-08-26T17:16:11-04:00"
+    },
+    {
+        "description": "The intersection of York and Washington is very dangerous.  Cars speed by, despite crosswalks, except for when there is a crossguard during school hours.  I worry for my safety and the safety of my family.  There is a stop sign heading north on York, but going north and south there is no stop sign or light.  Something must be done to ensure safety of pedestrians.  We have almost been hit by drivers not honoring pedestrians.  Please assist us in making Paulus Hook a safer place.",
+        "lat": 40.7160375,
+        "lng": -74.0375289,
+        "summary": "Traffic Calming/Pedestrian Safety request",
+        "address": "York St And Washington St Jersey City, New Jersey",
+        "rating": 1,
+        "created_at": "2017-08-26T17:13:26-04:00"
+    },
+    {
+        "description": "there is three couches in front of the apartment complex and people are adding to it already.",
+        "lat": 37.766429,
+        "lng": -122.1711665,
+        "summary": "Illegal Dumping",
+        "address": "7620 Hillside St Oakland, CA 94605, USA",
+        "rating": 3,
+        "created_at": "2017-08-26T17:12:59-04:00"
+    },
+    {
+        "description": "Vehicle parked in NO parking zone in front of parking sign.  ",
+        "lat": 38.872932434082,
+        "lng": -77.0099105834961,
+        "summary": "Parking Enforcement",
+        "address": "1401 Carrollsburg Pl Sw Washington, DC 20024, USA",
+        "rating": 1,
+        "created_at": "2017-08-26T17:11:53-04:00"
+    },
+    {
+        "description": "glass window",
+        "lat": 35.1114996336217,
+        "lng": -106.519673889217,
+        "summary": "Residential Large Item Pick Up",
+        "address": "10824 Cordova Avenue Northeast Albuquerque, New Mexico",
+        "rating": 2,
+        "created_at": "2017-08-26T17:09:41-04:00"
+    },
+    {
+        "description": "big old poplar at north side of children's bridge is dead and in danger of falling on pedistrians or onto the bridge and damaging the bridge. tree has been totally chewed around at base by beavers and the trunk is rotten. needs to be removed safely before it blows down and damages bridge.",
+        "lat": 53.6322680670207,
+        "lng": -113.631961941719,
+        "summary": "Trees",
+        "address": "84 U Mission Ave St Albert, AB T8N 1H8, Canada",
+        "rating": 2,
+        "created_at": "2017-08-26T17:09:38-04:00"
+    },
+    {
+        "description": "Two abandoned Honda cars blue and tan. Right hand side of street near the corner of 77th and Hillside Street.",
+        "lat": 37.7660441,
+        "lng": -122.1714559,
+        "summary": "Other: Other City Services",
+        "address": "7637 Hillside St Oakland, CA 94605, USA",
+        "rating": 1,
+        "created_at": "2017-08-26T17:08:58-04:00"
+    },
+    {
+        "description": "on parking barrier in alley ",
+        "lat": 41.9541819130885,
+        "lng": -87.6685055717826,
+        "summary": "Graffiti Removal",
+        "address": "1519 W Irving Park Rd Chicago, IL 60613, USA",
+        "rating": 1,
+        "created_at": "2017-08-26T17:08:29-04:00"
+    },
+    {
+        "description": "More of the asshat...",
+        "lat": 37.7705612182617,
+        "lng": -122.232360839844,
+        "summary": "Graffiti",
+        "address": "333 Lancaster St Oakland, CA 94601, USA",
+        "rating": 3,
+        "created_at": "2017-08-26T17:07:54-04:00"
+    },
+    {
+        "description": "Dangerous building",
+        "lat": 29.6941205121101,
+        "lng": -95.2984608337283,
+        "summary": "Other",
+        "address": "7301-7303 Thurow St Houston, TX 77087, USA",
+        "rating": 1,
+        "created_at": "2017-08-26T17:07:30-04:00"
+    },
+    {
+        "description": "Cabinet dumped on sidewalk across street from 8415 Olive street. ",
+        "lat": 37.7572615922435,
+        "lng": -122.170877636729,
+        "summary": "Illegal Dumping",
+        "address": "8400-8434 Olive St Oakland, CA 94621, USA",
+        "rating": 2,
+        "created_at": "2017-08-26T17:06:38-04:00"
+    },
+    {
+        "description": "Seeing a lot of run-off debris and oil stains from garbage trucks on the roads in our subdivision.  Any options available?",
+        "lat": 33.7381088678389,
+        "lng": -84.2649139836843,
+        "summary": "Street Cleaning needs",
+        "address": "3741-3749 Glenwood Road Decatur, Georgia",
+        "rating": 1,
+        "created_at": "2017-08-26T17:04:39-04:00"
+    },
+    {
+        "description": "The residents at 1405 NW 16th Street have two inoperable vehicles parked in the front and the east side of the house. The cars have flat tires and missing windows. ",
+        "lat": 35.4861988090777,
+        "lng": -97.5346629,
+        "summary": "Inoperable Vehicles",
+        "address": "1405 Nw 16th St Oklahoma City, OK 73106, USA",
+        "rating": 1,
+        "created_at": "2017-08-26T17:03:57-04:00"
+    },
+    {
+        "description": "There is a  pothole in this area that keeps getting worse.",
+        "lat": 33.7380803033232,
+        "lng": -84.262585326618,
+        "summary": "Pothole",
+        "address": "3795 Glenwood Road Decatur, Georgia",
+        "rating": 1,
+        "created_at": "2017-08-26T17:02:31-04:00"
+    },
+    {
+        "description": "Bunch of shoes hanging off the phone and cable lines. Trucks have been hitting them. Creating a traffic safety hazard.",
+        "lat": 37.7451705932617,
+        "lng": -122.168273925781,
+        "summary": "Other: Other City Services",
+        "address": "9807 Walnut St Oakland, CA 94603, USA",
+        "rating": 3,
+        "created_at": "2017-08-26T17:01:39-04:00"
+    },
+    {
+        "description": "At the parking lot for the dog park is a Brothers Grocery Cart.  Sums it up right there.  ",
+        "lat": 42.1673139422463,
+        "lng": -71.0543406266716,
+        "summary": "Other",
+        "address": "167 West St Randolph, MA 02368, USA",
+        "rating": 1,
+        "created_at": "2017-08-26T17:00:31-04:00"
+    },
+    {
+        "description": "",
+        "lat": 38.8958046772911,
+        "lng": -77.0048043722207,
+        "summary": "Pothole",
+        "address": "158-162 Massachusetts Ave Ne Washington, DC 20544, USA",
+        "rating": 1,
+        "created_at": "2017-08-26T16:58:42-04:00"
+    },
+    {
+        "description": "A dog keeps yelping about every minute. It sounds like the dog is in distress. It is loud, shrill, and very disrupting to hear. Going on ",
+        "lat": 42.4173466,
+        "lng": -71.0869025,
+        "summary": "Barking Complaint",
+        "address": "75 Kenmere Road Medford, Massachusetts",
+        "rating": 1,
+        "created_at": "2017-08-26T16:57:03-04:00"
+    },
+    {
+        "description": "Please verify the signage for \"Restaurant Depot\",  placed at the corner of Starkey Rd and Enterprise Blvd., meets county code permitting.  Please advise if signage is within regulations or have removed.",
+        "lat": 27.8860581,
+        "lng": -82.7617236,
+        "summary": "Code Enforcement",
+        "address": "12505 Starkey Road Largo, Florida",
+        "rating": 1,
+        "created_at": "2017-08-26T16:56:15-04:00"
+    },
+    {
+        "description": "On green power box by viewing bench area close to the river. south side of river in lions park along path",
+        "lat": 53.6304871147827,
+        "lng": -113.632053807378,
+        "summary": "Graffiti - Public",
+        "address": "21 Sir Winston Churchill Ave St Albert, AB T8N 0G1, Canada",
+        "rating": 1,
+        "created_at": "2017-08-26T16:54:10-04:00"
+    },
+    {
+        "description": "Traffic backed up for 1/2 mi both sides with daytime street repair unnecessary! No cops to direct traffic and control lights? Tough intersection anyway. Poorly done...",
+        "lat": 38.9081925,
+        "lng": -77.0064149,
+        "summary": "Street Repair",
+        "address": "75 New York Ave Ne Washington, DC 20002, USA",
+        "rating": 1,
+        "created_at": "2017-08-26T16:49:43-04:00"
+    },
+    {
+        "description": "",
+        "lat": 40.8001441955566,
+        "lng": -76.8723526000977,
+        "summary": "Plumbing / Sinks / Toilets / Leaks",
+        "address": "540 University Ave Selinsgrove, PA 17870, USA",
+        "rating": 1,
+        "created_at": "2017-08-26T16:47:55-04:00"
+    },
+    {
+        "description": "This curb side tree has multiple dead limbs and looks to be hollowed out from bug. We've had two large limbs fall in the last year that came very close to hitting two homes. This tree is an incident waiting to happen. ",
+        "lat": 42.7405356439808,
+        "lng": -84.5718764648325,
+        "summary": "Tree Issue",
+        "address": "615 Westmoreland Ave Lansing, MI 48915, USA",
+        "rating": 2,
+        "created_at": "2017-08-26T16:47:01-04:00"
+    },
+    {
+        "description": "",
+        "lat": 29.7890815734863,
+        "lng": -95.3899459838867,
+        "summary": "Traffic Signs",
+        "address": "1001-1011 Beverly St Houston, TX 77008, USA",
+        "rating": 1,
+        "created_at": "2017-08-26T16:46:33-04:00"
+    },
+    {
+        "description": "The red light on Stevens at Brighton is too long.  It is almost a minute long.  I go through there twice every day, and I just waste so much time.  The light also doesn't detect bikes, so bikes have to run the light or wait for a car to come along, which is unfair.",
+        "lat": 43.666614,
+        "lng": -70.2958297,
+        "summary": "Traffic Light",
+        "address": "Stevens Avenue At Brighton Avenue (Intersection) Portland, Maine",
+        "rating": 1,
+        "created_at": "2017-08-26T16:44:42-04:00"
+    },
+    {
+        "description": "Large old tree in the grass is pulling up the concrete sidewalk creating a hazardous situation. Also large dead limbs are falling from the tree. Please remove the tree. ",
+        "lat": 42.378414909959,
+        "lng": -83.120694,
+        "summary": "Tree Issue",
+        "address": "3283 Lawrence Detroit Mi",
+        "rating": 1,
+        "created_at": "2017-08-26T16:44:04-04:00"
+    },
+    {
+        "description": "Tow truck illegally parked on median on south side of I-10/Antione overpass ",
+        "lat": 29.7833274292309,
+        "lng": -95.4753598376806,
+        "summary": "Street Hazard",
+        "address": "Interstate 10 Frontage Rd & I-10 & Us-90 Houston, TX 77024, USA",
+        "rating": 1,
+        "created_at": "2017-08-26T16:41:55-04:00"
+    },
+    {
+        "description": "Vehicle parked in NO parking zone in front of parking sign.  ",
+        "lat": 38.872932434082,
+        "lng": -77.0099105834961,
+        "summary": "Parking Enforcement",
+        "address": "1401 Carrollsburg Pl Sw Washington, DC 20024, USA",
+        "rating": 1,
+        "created_at": "2017-08-26T16:41:43-04:00"
+    },
+    {
+        "description": "Can a management be alerted? The garbage has been sitting out for 2 weeks. It is at the apartment building on Roosevelt.",
+        "lat": 41.6776885,
+        "lng": -87.5126986,
+        "summary": "Large Item Pickup",
+        "address": "607 Roosevelt Dr Whiting, IN 46394, USA",
+        "rating": 1,
+        "created_at": "2017-08-26T16:41:18-04:00"
+    },
+    {
+        "description": "There has been an illegally dumped couch in the alley between Seaton Place NW and T ST NW for 2 weeks.  Please remove.  ",
+        "lat": 38.9155387878418,
+        "lng": -77.0092239379883,
+        "summary": "Illegal Dumping",
+        "address": "10 T St Nw Washington, DC 20001, USA",
+        "rating": 1,
+        "created_at": "2017-08-26T16:39:52-04:00"
+    },
+    {
+        "description": "",
+        "lat": 29.6889686042206,
+        "lng": -95.604256394845,
+        "summary": "Traffic Signals",
+        "address": "12680 Beechnut St Houston, TX 77072, USA",
+        "rating": 1,
+        "created_at": "2017-08-26T16:35:38-04:00"
+    },
+    {
+        "description": "Homeowner grass is in need of cutting. The property is a eye sore to the community.  ",
+        "lat": 33.5048134,
+        "lng": -84.4180584,
+        "summary": "Overgrown Grass/Weeds",
+        "address": "9172 Overlook Dr Jonesboro, GA 30238, USA",
+        "rating": 1,
+        "created_at": "2017-08-26T16:34:57-04:00"
+    },
+    {
+        "description": "Tree branches sitting here for a week",
+        "lat": 37.8029289245605,
+        "lng": -122.236274719238,
+        "summary": "Illegal Dumping",
+        "address": "3200 Park Blvd Oakland, CA 94610, USA",
+        "rating": 3,
+        "created_at": "2017-08-26T16:34:12-04:00"
+    },
+    {
+        "description": "Abandoned mattresses ",
+        "lat": 37.8031044006348,
+        "lng": -122.235847473145,
+        "summary": "Illegal Dumping",
+        "address": "3226 Park Blvd Oakland, CA 94610, USA",
+        "rating": 2,
+        "created_at": "2017-08-26T16:33:13-04:00"
+    },
+    {
+        "description": "Grass is 3 feet high and other debris in backyard ",
+        "lat": 42.34033203125,
+        "lng": -83.2228240966797,
+        "summary": "Curbside Solid Waste Issue",
+        "address": "6738 Brace St Detroit, MI 48228, USA",
+        "rating": 2,
+        "created_at": "2017-08-26T16:32:53-04:00"
+    },
+    {
+        "description": "Unaccompanied sign lying in the street. Needs to be given to a loving home where people will put it upright and care for it. ",
+        "lat": 42.3855171203613,
+        "lng": -71.1347427368164,
+        "summary": "Sidewalk Defect",
+        "address": "178 Fayerweather St Cambridge, MA 02138, USA",
+        "rating": 1,
+        "created_at": "2017-08-26T16:32:11-04:00"
+    },
+    {
+        "description": "Abandoned Car sitting here for two months ",
+        "lat": 37.8032608032227,
+        "lng": -122.235984802246,
+        "summary": "Illegal Dumping",
+        "address": "3127-3299 Park Blvd Oakland, CA 94610, USA",
+        "rating": 3,
+        "created_at": "2017-08-26T16:31:42-04:00"
+    },
+    {
+        "description": "",
+        "lat": 38.8980097608017,
+        "lng": -76.9768600031008,
+        "summary": "Alley Cleaning",
+        "address": "720 19th St Ne Washington, DC 20002, USA",
+        "rating": 1,
+        "created_at": "2017-08-26T16:31:38-04:00"
+    },
+    {
+        "description": "",
+        "lat": 42.3392369220683,
+        "lng": -83.2231230054228,
+        "summary": "Illegal Dump Sites",
+        "address": "6523 Brace St Detroit, MI 48228, USA",
+        "rating": 2,
+        "created_at": "2017-08-26T16:31:18-04:00"
+    },
+    {
+        "description": "Abandoned Car has been here for two months ",
+        "lat": 37.8031158447266,
+        "lng": -122.23600769043,
+        "summary": "Illegal Dumping",
+        "address": "3220 Park Blvd Oakland, CA 94610, USA",
+        "rating": 2,
+        "created_at": "2017-08-26T16:30:55-04:00"
+    },
+    {
+        "description": "Weeds and grass over 10 inches high ",
+        "lat": 34.0654821934351,
+        "lng": -84.187425726933,
+        "summary": "High Weeds/Grass - Private Property",
+        "address": "5925 Haterleigh Dr Alpharetta, GA 30005, USA",
+        "rating": 1,
+        "created_at": "2017-08-26T16:30:45-04:00"
+    },
+    {
+        "description": "Dried out rat carcass on the sidewalk. It's closer to the basketball court entrance. Saw it last week but didn't have my phone. Assumed it would have been taken care of. ",
+        "lat": 42.3863572029181,
+        "lng": -71.0345789421999,
+        "summary": "Dead Animal (on Public Property)",
+        "address": "115 Marginal St Chelsea, MA 02150, USA",
+        "rating": 1,
+        "created_at": "2017-08-26T16:30:31-04:00"
+    },
+    {
+        "description": "See above",
+        "lat": 40.7277360071525,
+        "lng": -74.067406,
+        "summary": "Service Request Not Listed",
+        "address": "821 Bergen Ave Jersey City, NJ 07306, USA",
+        "rating": 1,
+        "created_at": "2017-08-26T16:29:49-04:00"
+    },
+    {
+        "description": "",
+        "lat": 38.8981405667691,
+        "lng": -76.9767724386576,
+        "summary": "Graffiti Removal",
+        "address": "722 19th St Ne Washington, DC 20002, USA",
+        "rating": 1,
+        "created_at": "2017-08-26T16:29:14-04:00"
+    },
+    {
+        "description": "They never clear the sidewalks here!  The yard has been a mess for years.",
+        "lat": 38.0855726,
+        "lng": -122.244477,
+        "summary": "Code Enforcement, Exterior Private Property Maintenance",
+        "address": "406 Winchester Vallejo, California",
+        "rating": 3,
+        "created_at": "2017-08-26T16:29:11-04:00"
+    },
+    {
+        "description": "Dead rat at the driveway of eastern salt company office. ",
+        "lat": 42.3866699255251,
+        "lng": -71.0346860605908,
+        "summary": "Dead Animal (on Public Property)",
+        "address": "100 Marginal St Chelsea, MA 02150, USA",
+        "rating": 1,
+        "created_at": "2017-08-26T16:28:41-04:00"
+    },
+    {
+        "description": "Tagging on the pavement of the alley between 18th/19th St NE and Gales St/Benning Rd NE.",
+        "lat": 38.8982749079279,
+        "lng": -76.9772706054868,
+        "summary": "Graffiti Removal",
+        "address": "729 18th St Ne Washington, DC 20002, USA",
+        "rating": 1,
+        "created_at": "2017-08-26T16:28:28-04:00"
+    },
+    {
+        "description": "Beds and couch.  Couch was in the back of a truck for sale by Templers and was pushed off onto the dumped beds ",
+        "lat": 37.9979934628029,
+        "lng": -121.790519714355,
+        "summary": "Trash / Dumping",
+        "address": "2401-2599 Devpar Ct Antioch, CA 94509, USA",
+        "rating": 1,
+        "created_at": "2017-08-26T16:27:55-04:00"
+    },
+    {
+        "description": "dangerous stack of living room furniture piled up between sidewalk and street",
+        "lat": 36.8082434,
+        "lng": -76.2090496,
+        "summary": "Dangerous stack of furniture by street",
+        "address": "1001 Amherst Ln Virginia Beach, VA 23464, USA",
+        "rating": 1,
+        "created_at": "2017-08-26T16:25:04-04:00"
+    },
+    {
+        "description": "Watering Front yard at 1 pm on Aug 26. Wrong day and time",
+        "lat": 51.0176308,
+        "lng": -118.2177367,
+        "summary": "Watering (Residential)",
+        "address": "1947b Colbeck Rd Revelstoke, British Columbia",
+        "rating": 2,
+        "created_at": "2017-08-26T16:25:02-04:00"
+    },
+    {
+        "description": "Abandoned car on Wilbur st near Whittle Ave. ",
+        "lat": 37.8038864135742,
+        "lng": -122.210792541504,
+        "summary": "Parking Enforcement",
+        "address": "2300-2350 Wilbur St Oakland, CA 94602, USA",
+        "rating": 2,
+        "created_at": "2017-08-26T16:23:47-04:00"
+    },
+    {
+        "description": "Hello. Tan Toyota Sienna parked for months. Weeds growing under the tires. Graffitied. In-between San Pablo and Rashida Mohammed.\r\nCA 6jaj423",
+        "lat": 37.8085047,
+        "lng": -122.2708454,
+        "summary": "Abandoned car",
+        "address": "530 19th St. Oakland, California (CA)",
+        "rating": 2,
+        "created_at": "2017-08-26T16:23:06-04:00"
+    },
+    {
+        "description": "Trash is collecting on the side of the road and along all the belt route",
+        "lat": 40.6504082289785,
+        "lng": -111.952177506068,
+        "summary": "Trash/Litter",
+        "address": "Belt Route Taylorsville, Utah",
+        "rating": 1,
+        "created_at": "2017-08-26T16:23:02-04:00"
+    },
+    {
+        "description": "This car hasn't moved in over two weeks",
+        "lat": 37.5815729,
+        "lng": -122.3610416,
+        "summary": "Parking & Traffic",
+        "address": "1442 Edgehill Dr Burlingame, CA 94010, USA",
+        "rating": 1,
+        "created_at": "2017-08-26T16:22:55-04:00"
+    },
+    {
+        "description": "",
+        "lat": 41.6939746087778,
+        "lng": -83.6307484,
+        "summary": "Gang Activity Concern",
+        "address": "4751 Violet Rd Toledo, OH 43623, USA",
+        "rating": 1,
+        "created_at": "2017-08-26T16:22:21-04:00"
+    },
+    {
+        "description": "Trash is collecting on the side of the road",
+        "lat": 40.6569522696027,
+        "lng": -111.952274065592,
+        "summary": "Trash/Litter",
+        "address": "Belt Route Salt Lake City, Utah",
+        "rating": 2,
+        "created_at": "2017-08-26T16:22:12-04:00"
+    },
+    {
+        "description": "Council member mentioned in news still has electricity on despite balance. East Point policy is to disconnect. Citizens need a response and this issue resolved.\r\nPublic record delowe dr",
+        "lat": 33.687302,
+        "lng": -84.4575366,
+        "summary": "Electricity and east Point policy",
+        "address": "Delowe De  East Point, Georgia",
+        "rating": 1,
+        "created_at": "2017-08-26T16:21:25-04:00"
+    },
+    {
+        "description": "Trash is collecting along the belt route ",
+        "lat": 40.6376246891396,
+        "lng": -111.919147048188,
+        "summary": "Trash/Litter",
+        "address": "Belt Route Murray, Utah",
+        "rating": 1,
+        "created_at": "2017-08-26T16:20:40-04:00"
+    },
+    {
+        "description": "Grass has not been cut in over 3 weeks.",
+        "lat": 27.7325689,
+        "lng": -82.6684505,
+        "summary": "Codes Compliance",
+        "address": "2501 Granada Circle West Saint Petersburg, Florida",
+        "rating": 1,
+        "created_at": "2017-08-26T16:19:53-04:00"
+    }
+]

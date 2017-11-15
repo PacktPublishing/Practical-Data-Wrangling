@@ -1,0 +1,10 @@
+data entry attributes:
+{
+'snippet': '<span class="searchmatch">Data</span> <span class="searchmatch">wrangling</span> (sometimes referred to as <span class="searchmatch">data</span> munging) is the process of transforming and mapping <span class="searchmatch">data</span> from one &quot;raw&quot; <span class="searchmatch">data</span> form into another format with',
+'pageid': '12487489',
+'title': 'Data wrangling',
+'timestamp': '2017-10-09T19:18:16Z',
+'ns': '0',
+'wordcount': '891',
+'size': '7256'
+}
