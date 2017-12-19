@@ -31,5 +31,3 @@ For Chapters 6 and 7, you will need RStudio and Rbase. Additionally, for Chapter
 
 * [Practical Data Science Cookbook - Second Edition](https://www.packtpub.com/big-data-and-business-intelligence/practical-data-science-cookbook-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781787129627)
 
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
